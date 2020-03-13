@@ -43,7 +43,7 @@ Upload a User:
 ```js
 const payload  =  {
   pin: '123456',
-  nama: 'Adhyaksa Jaya',
+  nama: 'Nama Saya',
   pwd: 0,
   rfid: 0,
   priv: 0,
